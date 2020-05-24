@@ -1,1 +1,1 @@
-# IBM_MachineLearning_capstone_project
+# IBM Capstone project
